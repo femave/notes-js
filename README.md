@@ -5,7 +5,7 @@
 
 ### JS Help
 
-- [String notes](js/string.md)
+- [String notes](js/strings.md)
 - [Arrays notes](js/arrays.md)
 
 ### Git Help
