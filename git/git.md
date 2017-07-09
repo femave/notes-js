@@ -96,7 +96,7 @@ and update working directory
 - When in doubt, use git help
     + $ git command --help
 
-### Working with remote
+### Working with remote 
 
 - List the remote connections you have to other repositories.
     + $ git remote
