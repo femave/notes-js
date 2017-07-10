@@ -12,4 +12,8 @@
 
 - [Git notes](git/git.md)
 
+### Jasmine Help
+
+-[Jasmine notes](jasmine/jasmine.md)
+
 

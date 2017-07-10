@@ -39,3 +39,7 @@ passes if x is greater than y
 expect(function(){fn();}).toThrow(e);
 passes if function fn throws exception e when executed
 ```
+
+
+#### All matchers
+https://github.com/JamieMason/Jasmine-Matchers
