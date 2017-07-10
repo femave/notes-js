@@ -14,6 +14,6 @@
 
 ### Jasmine Help
 
--[Jasmine notes](jasmine/jasmine.md)
+- [Jasmine notes](jasmine/jasmine.md)
 
 
